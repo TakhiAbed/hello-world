@@ -1,2 +1,4 @@
 # hello-world
-learning lab of git
+hi i am abed
+i am an intern at enliven at present 
+and i am learning to work in a company.
